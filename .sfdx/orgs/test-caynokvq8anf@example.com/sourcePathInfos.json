@@ -96,25 +96,25 @@
             "sourcePath": "C:\\Users\\Lenovo\\Documents\\GitHub\\LWC Sessions\\force-app\\main\\default\\lwc\\helloWorld\\helloWorld.html",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 193,
-            "modifiedTime": 1571203222053,
-            "changeTime": 1571203222053,
+            "size": 226,
+            "modifiedTime": 1571204007544,
+            "changeTime": 1571204007544,
             "isWorkspace": false,
-            "contentHash": "83d3878d13c81c5ef3c0a029ac31ae0257d06969"
+            "contentHash": "2a9baf86f4f96f40938a9a28310efbbf908577b5"
         }
     ],
     [
         "C:\\Users\\Lenovo\\Documents\\GitHub\\LWC Sessions\\force-app\\main\\default\\lwc\\helloWorld\\helloWorld.js",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\Lenovo\\Documents\\GitHub\\LWC Sessions\\force-app\\main\\default\\lwc\\helloWorld\\helloWorld.js",
             "isDirectory": false,
-            "size": 131,
-            "modifiedTime": 1571202131959,
-            "changeTime": 1571202131959,
-            "contentHash": "e292c60099a6891b6c9b84ce81840a41133a9e21",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false
+            "size": 239,
+            "modifiedTime": 1571203890306,
+            "changeTime": 1571203890306,
+            "isWorkspace": false,
+            "contentHash": "66d2d667315854eb4cf2d9185395ea745fcd30c7"
         }
     ],
     [
