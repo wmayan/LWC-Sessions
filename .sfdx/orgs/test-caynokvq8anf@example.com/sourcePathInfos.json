@@ -1,0 +1,149 @@
+[
+    [
+        "C:\\Users\\Lenovo\\Documents\\GitHub\\LWC Sessions\\force-app",
+        {
+            "sourcePath": "C:\\Users\\Lenovo\\Documents\\GitHub\\LWC Sessions\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1570448811178,
+            "changeTime": 1570448811178,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\Lenovo\\Documents\\GitHub\\LWC Sessions\\force-app\\main",
+        {
+            "sourcePath": "C:\\Users\\Lenovo\\Documents\\GitHub\\LWC Sessions\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1570448811178,
+            "changeTime": 1570448811178,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Lenovo\\Documents\\GitHub\\LWC Sessions\\force-app\\main\\default",
+        {
+            "sourcePath": "C:\\Users\\Lenovo\\Documents\\GitHub\\LWC Sessions\\force-app\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1570448811179,
+            "changeTime": 1570448811179,
+            "contentHash": "7334b1e8716ee057f8863fce77d3933d5bd9d984",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Lenovo\\Documents\\GitHub\\LWC Sessions\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\Users\\Lenovo\\Documents\\GitHub\\LWC Sessions\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1570448811179,
+            "changeTime": 1570448811179,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Lenovo\\Documents\\GitHub\\LWC Sessions\\force-app\\main\\default\\lwc",
+        {
+            "sourcePath": "C:\\Users\\Lenovo\\Documents\\GitHub\\LWC Sessions\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1571118778029,
+            "changeTime": 1571118778029,
+            "contentHash": "5395ebfd174b0a5617e6f409dfbb3e064e3fdf0a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Lenovo\\Documents\\GitHub\\LWC Sessions\\force-app\\main\\default\\lwc\\helloWorld",
+        {
+            "sourcePath": "C:\\Users\\Lenovo\\Documents\\GitHub\\LWC Sessions\\force-app\\main\\default\\lwc\\helloWorld",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1571118778048,
+            "changeTime": 1571118778048,
+            "contentHash": "c4f5c53c9e3fa98e7b41f54b72a11b17045711fb",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Lenovo\\Documents\\GitHub\\LWC Sessions\\force-app\\main\\default\\lwc\\helloWorld\\helloWorld.html",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Lenovo\\Documents\\GitHub\\LWC Sessions\\force-app\\main\\default\\lwc\\helloWorld\\helloWorld.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 193,
+            "modifiedTime": 1571203222053,
+            "changeTime": 1571203222053,
+            "isWorkspace": false,
+            "contentHash": "83d3878d13c81c5ef3c0a029ac31ae0257d06969"
+        }
+    ],
+    [
+        "C:\\Users\\Lenovo\\Documents\\GitHub\\LWC Sessions\\force-app\\main\\default\\lwc\\helloWorld\\helloWorld.js",
+        {
+            "sourcePath": "C:\\Users\\Lenovo\\Documents\\GitHub\\LWC Sessions\\force-app\\main\\default\\lwc\\helloWorld\\helloWorld.js",
+            "isDirectory": false,
+            "size": 131,
+            "modifiedTime": 1571202131959,
+            "changeTime": 1571202131959,
+            "contentHash": "e292c60099a6891b6c9b84ce81840a41133a9e21",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "C:\\Users\\Lenovo\\Documents\\GitHub\\LWC Sessions\\force-app\\main\\default\\lwc\\helloWorld\\helloWorld.js-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Lenovo\\Documents\\GitHub\\LWC Sessions\\force-app\\main\\default\\lwc\\helloWorld\\helloWorld.js-meta.xml",
+            "isDirectory": false,
+            "size": 389,
+            "modifiedTime": 1571138800607,
+            "changeTime": 1571138800607,
+            "contentHash": "35948bc4740f79a881f1dbe45c0c765266a8f0ff",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "C:\\Users\\Lenovo\\Documents\\GitHub\\LWC Sessions",
+        {
+            "sourcePath": "C:\\Users\\Lenovo\\Documents\\GitHub\\LWC Sessions",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1571052359635,
+            "changeTime": 1571052359635,
+            "contentHash": "ac8ebe8fbf8686ccd99613333554bc80e3ff17df",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
